@@ -99,7 +99,7 @@ video {
     margin: 0;
     padding: 0;
     border: 0;
-    font: inherit;
+    font: "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif !important;
     font-size: 100%;
     vertical-align: baseline;
 }
@@ -199,7 +199,7 @@ select,
 textarea {
     margin: 0; /* 3 */
     color: inherit; /* 1 */
-    font: inherit; /* 2 */
+    font: "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif !important; /* 2 */
 }
 button {
     overflow: visible;
